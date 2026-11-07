@@ -1,0 +1,12 @@
+# CompositeGuard AI - installed development versions
+# For PyTorch CPU builds, use:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+numpy==2.5.4
+opencv-python==5.0.0.93
+matplotlib==3.11.2
+pillow==12.3.0
+torch==2.14.1
+torchvision==0.29.1
+streamlit==1.66.0
+reportlab==5.0.1
+pytest==9.1.1

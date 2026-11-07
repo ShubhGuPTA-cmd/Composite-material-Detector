@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Third-party dataset images
+data/raw/
+
+# Generated or private files
+data/inspections.db
+models/*.pt
+reports/*.pdf
+reports/test_run.lock
